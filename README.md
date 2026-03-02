@@ -1,4 +1,4 @@
-<img width="617" height="95" alt="image" src="https://github.com/user-attachments/assets/369695d9-bd55-475e-b1be-3d0b3fadc4d7" />Luxury Housing Sales Analysis – Bengaluru
+Luxury Housing Sales Analysis – Bengaluru
 
 Problem Statement:
 Build a complete real estate analytics solution using Python for advanced data cleaning, load the refined dataset into a SQL database, and use Power BI to directly connect to SQL and build a dashboard. The goal is to replicate a real-world enterprise-level data pipeline and analysis environment using a complex housing dataset with 1,00,000+ records.
@@ -6,8 +6,6 @@ Approach:
  Step 1: Python — Data Cleaning & Feature Engineering
 
 Load the raw .csv file
-df=pd.read_csv("C:/Users/priya/OneDrive/Desktop/datascience/luxury housing/Luxury_Housing_Bangalore.csv")
-df.head()
 
 Normalize text fields (Builder)
 df = df.rename(columns={'Developer_Name': 'Builder'})
