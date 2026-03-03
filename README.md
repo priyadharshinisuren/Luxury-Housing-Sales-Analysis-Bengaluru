@@ -41,3 +41,9 @@ df.drop_duplicates(inplace=True)
 Load Clean Data into PGADMIN
 Power BI — Visualize via Direct SQL Connection
 Business Insights Generated
+<img width="1156" height="657" alt="image" src="https://github.com/user-attachments/assets/c740e1af-48d3-45e6-b2a8-7264e79d2fbe" />
+<img width="1180" height="665" alt="image" src="https://github.com/user-attachments/assets/75ae9449-5692-4e1b-b333-d3cfb89fbf0a" />
+
+![thanks](https://github.com/user-attachments/assets/7d8c7c91-76ca-4356-a542-0818f334caa4)
+
+
